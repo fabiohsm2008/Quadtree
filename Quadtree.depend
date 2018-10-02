@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1538240972 source:d:\trabajos 6to semestre\eda\quadtree\main.cpp
+	<windows.h>
+	<fstream>
+	<sstream>
+	<string>
+	<iostream>
+	<algorithm>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<GL/glut.h>
+	<Quadtree.h>
+
+976692172 d:\codeblocks\mingw\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1538240869 d:\trabajos 6to semestre\eda\quadtree\include\quadtree.h
+	<vector>
+	<iostream>
+	<math.h>
+
+1538242110 source:d:\trabajos 6to semestre\eda\quadtree\src\quadtree.cpp
+	"Quadtree.h"
+
